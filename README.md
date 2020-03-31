@@ -16,7 +16,7 @@ For Face detection:<br/>
 
 
 For liveness detection:<br/>
-![Face_verification](https://github.com/S-Anmol/MishMash/blob/master/media/2.png)
+![Face_verification](https://github.com/S-Anmol/MishMash/blob/master/media/3.png)
 
 To install the dependencies:
 ```
