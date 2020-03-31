@@ -5,18 +5,18 @@ Face-ID verification for payment transactions with Facial liveness detection and
 ## Exmaple pictures/snapshots:
 
 ### 2D to 3D mapping
-Original picture vs contours/layers extracted from image.
-[mapping_picture](https://github.com/S-Anmol/MishMash/media/1.jpg)
+Original picture vs contours/layers extracted from image.<br/>
+![mapping_picture](https://github.com/S-Anmol/MishMash/media/1.jpg)
 
-Updated 3D image from picture:
-[updated_gif](https://github.com/S-Anmol/MishMash/1.gif)
+Updated 3D image from picture:<br/>
+![updated_gif](https://github.com/S-Anmol/MishMash/1.gif)
 
-For Face detection:
-[Face_verification](https://github.com/S-Anmol/MishMash/2.png)
+For Face detection:<br/>
+![Face_verification](https://github.com/S-Anmol/MishMash/2.png)
 
 
-For liveness detection:
-[Face_verification](https://github.com/S-Anmol/MishMash/3.png)
+For liveness detection:<br/>
+![Face_verification](https://github.com/S-Anmol/MishMash/3.png)
 
 To install the dependencies:
 ```
