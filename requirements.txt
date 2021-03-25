@@ -206,7 +206,7 @@ python-telegram-bot==11.1.0
 python3-openid==3.1.0
 pytorch-pretrained-bert==0.4.0
 pytz==2018.9
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.5.1
 questionary==1.1.1
