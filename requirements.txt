@@ -186,7 +186,7 @@ PyAudio==0.2.11
 pycparser==2.19
 pydot==1.4.1
 pydruid==0.5.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyHive==0.6.1
 PyJWT==1.7.1
