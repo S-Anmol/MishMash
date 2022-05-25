@@ -189,7 +189,7 @@ pydruid==0.5.2
 Pygments==2.4.2
 PyHamcrest==1.9.0
 PyHive==0.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pykwalify==1.7.0
 pymongo==3.7.2
 pyparsing==2.4.0
