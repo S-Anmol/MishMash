@@ -177,7 +177,7 @@ preshed==2.0.1
 prison==0.1.0
 prometheus-client==0.7.0
 prompt-toolkit==2.0.9
-protobuf==3.8.0
+protobuf==3.18.3
 psycopg2==2.7.5
 ptyprocess==0.6.0
 py==1.8.0
