@@ -26,7 +26,7 @@ botocore==1.12.211
 bs4==0.0.1
 cchardet==2.1.4
 celery==4.3.0
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 chart-studio==1.0.0
